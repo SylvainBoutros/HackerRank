@@ -1,6 +1,3 @@
-# LeetCode
-LeetCode problems, 3 Months Preparation Kit Problems containing 104 challenges to solve.
-
 ## Week 1 
 7 problems to solve focusing on basic problem solving skills.
 
