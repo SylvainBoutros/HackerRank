@@ -4,4 +4,6 @@ HackerRank problems, 3 Months Preparation Kit Problems containing 104 challenges
 ## Status:
 [Week 1](/Week1): **Completed**
 
-[Week 2](/Week2): *In progress*
+[Week 2](/Week2): **Completed**
+
+[Week 3](/Week3): ***In Progress***
