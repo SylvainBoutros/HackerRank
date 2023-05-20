@@ -17,7 +17,7 @@ Louise joined a social networking site to stay in touch with her friends. The si
 + It contains at least one special character. The special characters are: !@#$%^&*()-+
 + She typed a random string of length  in the password field but wasn't sure if it was strong. Given the string she typed, can you find the minimum number of characters she must add to make her password strong?
 Note: Here's the set of types of characters in a form you can paste in your solution:
-```c++
+```cpp
 string numbers = "0123456789";
 string lower_case = "abcdefghijklmnopqrstuvwxyz";
 string upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
